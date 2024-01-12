@@ -18,6 +18,11 @@ public class SS {
 	{
 		System.out.println("THIS IS M3");
 	}
+
+	public static void m4()
+	{
+		System.out.println("THIS IS M4");
+	}
 	
 	public static void main(String[] args) 
 	{
@@ -25,6 +30,7 @@ public class SS {
 		SS.m1();
 	    SS.m2();
 	    SS.m3();
+	    SS.m4();
 
 	}
 }
